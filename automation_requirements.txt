@@ -1,0 +1,7 @@
+requests
+bs4
+pyautogui
+selenium
+pyperclip
+pyinputplus
+html2text
